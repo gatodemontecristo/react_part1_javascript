@@ -1,6 +1,6 @@
 import getHeroeById, {
   getHeroesByOwner,
-} from "./bases/08-import-export-funciones-comunes";
+} from "./08-import-export-funciones-comunes";
 // const promesa = new Promise((resolve, reject)=>{
 //     setTimeout(() => {
 //        //tarea
